@@ -15,5 +15,6 @@
     "email": "kevin.b.chappell@gmail.com",
     "homepage": "https://kevin-chappell.com",
     "role": "Developer"
-  }]
+  }],
+  "minimum-stability": "dev"
 }
